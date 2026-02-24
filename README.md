@@ -1,1 +1,0 @@
-# Prosperity-prognosticator-machine-learning-for-startup
